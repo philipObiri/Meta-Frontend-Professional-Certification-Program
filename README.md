@@ -91,11 +91,11 @@
 - Week 5:
 </details>
 
-## Proof of Completion
+<!-- ## Proof of Completion -->
 
-- Not Available
+- Thank You For checking out my FrontEnd Learning Journey
 
-## See also
+<!-- ## See also -->
 
 <!-- - My [Meta-Back-End-Developer](https://github.com/ginny100/Meta-Back-End-Developer) repository
 - My [Meta-Database-Engineer](https://github.com/ginny100/Meta-Database-Engineer) repository -->
