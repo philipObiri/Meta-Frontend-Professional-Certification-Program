@@ -18,12 +18,11 @@
 <details>
 <summary><b>Course 2: </b><a href="https://github.com/ginny100/Meta-Front-End-Developer/tree/master/Course%202%20-%20Programming%20with%20JavaScript"><b>Programming with JavaScript</b></a></summary>
 
-- Week 1: [Introduction to Javascript](https://github.com/ginny100/Meta-Front-End-Developer/tree/master/Course%202%20-%20Programming%20with%20JavaScript/Week%201%20-%20Introduction%20to%20Javascript)
-- Week 2: [The Building Blocks of a Program](https://github.com/ginny100/Meta-Front-End-Developer/tree/master/Course%202%20-%20Programming%20with%20JavaScript/Week%202%20-%20The%20Building%20Blocks%20of%20a%20Program)
-- Week 3: [Programming Paradigms](https://github.com/ginny100/Meta-Front-End-Developer/tree/master/Course%202%20-%20Programming%20with%20JavaScript/Week%203%20-%20Programming%20Paradigms)
-- Week 4: [Testing](https://github.com/ginny100/Meta-Front-End-Developer/tree/master/Course%202%20-%20Programming%20with%20JavaScript/Week%204%20-%20Testing)
-- Week 5: [End-of-Course Graded Assessment](https://github.com/ginny100/Meta-Front-End-Developer/tree/master/Course%202%20-%20Programming%20with%20JavaScript/Week%205%20-%20End-of-Course%20Graded%20Assessment)
-</details>
+- Week 1: [Introduction to Javascript](https://github.com/philipObiri/Meta-Frontend-Professional-Certification-Program/tree/master/Course%202-Programming%20With%20JavaScript/Week%201)
+- Week 2: [The Building Blocks of a Program](https://github.com/philipObiri/Meta-Frontend-Professional-Certification-Program/tree/master/Course%202-Programming%20With%20JavaScript/Week%202)
+- Week 3: [Programming Paradigms](https://github.com/philipObiri/Meta-Frontend-Professional-Certification-Program/tree/master/Course%202-Programming%20With%20JavaScript/Week%203)
+- Week 4: [Testing](https://github.com/philipObiri/Meta-Frontend-Professional-Certification-Program/tree/master/Course%202-Programming%20With%20JavaScript/Week%204)
+- Week 5: [End-of-Course Graded Assessment](https://github.com/philipObiri/Meta-Frontend-Professional-Certification-Program/tree/master/Course%202-Programming%20With%20JavaScript/Week%205/1.programming-assignment-little-lemon-receipt-maker)
 
 <details>
 <summary><b>Course 3: </b><a href="https://github.com/ginny100/Meta-Front-End-Developer/tree/master/Course%203%20-%20Version%20Control"><b>Version Control</b></a></summary>
@@ -96,5 +95,5 @@
 
 ## See also
 
-- My [Meta-Back-End-Developer](https://github.com/ginny100/Meta-Back-End-Developer) repository
-- My [Meta-Database-Engineer](https://github.com/ginny100/Meta-Database-Engineer) repository
+<!-- - My [Meta-Back-End-Developer](https://github.com/ginny100/Meta-Back-End-Developer) repository
+- My [Meta-Database-Engineer](https://github.com/ginny100/Meta-Database-Engineer) repository -->
