@@ -23,6 +23,8 @@
 - Week 3: [Programming Paradigms](https://github.com/philipObiri/Meta-Frontend-Professional-Certification-Program/tree/master/Course%202-Programming%20With%20JavaScript/Week%203)
 - Week 4: [Testing](https://github.com/philipObiri/Meta-Frontend-Professional-Certification-Program/tree/master/Course%202-Programming%20With%20JavaScript/Week%204)
 - Week 5: [End-of-Course Graded Assessment](https://github.com/philipObiri/Meta-Frontend-Professional-Certification-Program/tree/master/Course%202-Programming%20With%20JavaScript/Week%205/1.programming-assignment-little-lemon-receipt-maker)
+</details>
+
 
 <details>
 <summary><b>Course 3: </b><a href="https://github.com/philipObiri/Meta-Frontend-Professional-Certification-Program/tree/master/Cousera%203-Version%20Control"><b>Version Control</b></a></summary>
@@ -42,6 +44,8 @@
 </details>
 
 <details>
+
+
 <summary><b>Course 5: </b><a href="https://github.com/ginny100/Meta-Front-End-Developer/tree/master/Course%205%20-%20React%20Basics"><b>React Basics</b></a></summary>
 
 - Week 1: [React Components](https://github.com/ginny100/Meta-Front-End-Developer/tree/master/Course%205%20-%20React%20Basics/Week%201%20-%20React%20Components)
