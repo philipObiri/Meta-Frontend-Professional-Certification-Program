@@ -53,20 +53,20 @@
 </details>
 
 <details>
-<summary><b>Course 6: </b><a href="https://github.com/ginny100/Meta-Front-End-Developer/tree/master/Course%206%20-%20Advanced%20React"><b>Advanced React</b></a></summary>
+<summary><b>Course 6: </b><a href="https://github.com/philipObiri/Meta-Frontend-Professional-Certification-Program/tree/master/Course%206-%20Advanced%20React"><b>Advanced React</b></a></summary>
 
-- Week 1: [Components](https://github.com/ginny100/Meta-Front-End-Developer/tree/master/Course%206%20-%20Advanced%20React/Week%201%20-%20Components)
-- Week 2: [React Hooks and Custom Hooks](https://github.com/ginny100/Meta-Front-End-Developer/tree/master/Course%206%20-%20Advanced%20React/Week%202%20-%20React%20Hooks%20and%20Custom%20Hooks)
-- Week 3: [JSX and testing](https://github.com/ginny100/Meta-Front-End-Developer/tree/master/Course%206%20-%20Advanced%20React/Week%203%20-%20JSX%20and%20testing)
-- Week 4: [Final project](https://github.com/ginny100/Meta-Front-End-Developer/tree/master/Course%206%20-%20Advanced%20React/Week%204%20-%20Final%20project)
+- Week 1: [Components](https://github.com/philipObiri/Meta-Frontend-Professional-Certification-Program/tree/master/Course%206-%20Advanced%20React/Week%201-%20Components)
+- Week 2: [React Hooks and Custom Hooks](https://github.com/philipObiri/Meta-Frontend-Professional-Certification-Program/tree/master/Course%206-%20Advanced%20React/Week%202-%20React%20hooks%20and%20Custom%20Hooks)
+- Week 3: [JSX and testing](https://github.com/philipObiri/Meta-Frontend-Professional-Certification-Program/tree/master/Course%206-%20Advanced%20React/Week%203-%20JSX%20and%20Testing)
+- Week 4: [Final project](https://github.com/philipObiri/Meta-Frontend-Professional-Certification-Program/tree/master/Course%206-%20Advanced%20React/Week%204%20-%20Final%20Project)
 </details>
 
 <details>
-<summary><b>Course 7: </b><a href="https://github.com/ginny100/Meta-Front-End-Developer/tree/master/Course%207%20-%20Principles%20of%20UX-UI%20Design"><b>Principles of UI/UX Design</b></a></summary>
+<summary><b>Course 7: </b><a href="https://github.com/philipObiri/Meta-Frontend-Professional-Certification-Program/tree/master/Course%207-%20Principles%20of%20UI-UX%20Design"><b>Principles of UI/UX Design</b></a></summary>
 
-- Week 1: [Introduction to UX and UI design](https://github.com/ginny100/Meta-Front-End-Developer/tree/master/Course%207%20-%20Principles%20of%20UX-UI%20Design/Week%201%20-%20Introduction%20to%20UX%20and%20UI%20design)
-- Week 2: [Evaluating interactive design](https://github.com/ginny100/Meta-Front-End-Developer/tree/master/Course%207%20-%20Principles%20of%20UX-UI%20Design/Week%202%20-%20Evaluating%20interactive%20design)
-- Week 3: [Applied Design Fundamentals](https://github.com/ginny100/Meta-Front-End-Developer/tree/master/Course%207%20-%20Principles%20of%20UX-UI%20Design/Week%203%20-%20Applied%20Design%20Fundamentals)
+- Week 1: [Introduction to UX and UI design](https://github.com/philipObiri/Meta-Frontend-Professional-Certification-Program/tree/master/Course%207-%20Principles%20of%20UI-UX%20Design/Week%20-1%20-%20Introduction%20to%20UI-UX%20Design)
+- Week 2: [Evaluating interactive design](https://github.com/philipObiri/Meta-Frontend-Professional-Certification-Program/tree/master/Course%207-%20Principles%20of%20UI-UX%20Design/Week%202-%20Evaluating%20Interactive%20%20Design)
+- Week 3: [Applied Design Fundamentals](https://github.com/philipObiri/Meta-Frontend-Professional-Certification-Program/tree/master/Course%207-%20Principles%20of%20UI-UX%20Design/Week%203-%20Applied%20Design%20Fundamentals)
 - Week 4: [Designing your UI](https://github.com/ginny100/Meta-Front-End-Developer/tree/master/Course%207%20-%20Principles%20of%20UX-UI%20Design/Week%204%20-%20Designing%20your%20UI)
 - Week 5:
 </details>
