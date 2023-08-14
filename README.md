@@ -25,12 +25,12 @@
 - Week 5: [End-of-Course Graded Assessment](https://github.com/philipObiri/Meta-Frontend-Professional-Certification-Program/tree/master/Course%202-Programming%20With%20JavaScript/Week%205/1.programming-assignment-little-lemon-receipt-maker)
 
 <details>
-<summary><b>Course 3: </b><a href="https://github.com/ginny100/Meta-Front-End-Developer/tree/master/Course%203%20-%20Version%20Control"><b>Version Control</b></a></summary>
+<summary><b>Course 3: </b><a href="https://github.com/philipObiri/Meta-Frontend-Professional-Certification-Program/tree/master/Cousera%203-Version%20Control"><b>Version Control</b></a></summary>
 
-- Week 1: [Software collaboration](https://github.com/ginny100/Meta-Front-End-Developer/tree/master/Course%203%20-%20Version%20Control/Week%201%20-%20Software%20collaboration)
-- Week 2: [Command Line](https://github.com/ginny100/Meta-Front-End-Developer/tree/master/Course%203%20-%20Version%20Control/Week%202%20-%20Command%20Line)
-- Week 3: [Working with Git](https://github.com/ginny100/Meta-Front-End-Developer/tree/master/Course%203%20-%20Version%20Control/Week%203%20-%20Working%20with%20Git)
-- Week 4: [Graded Assessment](https://github.com/ginny100/Meta-Front-End-Developer/tree/master/Course%203%20-%20Version%20Control/Week%204%20-%20Graded%20Assessment)
+- Week 1: [Software collaboration](https://github.com/philipObiri/Meta-Frontend-Professional-Certification-Program/tree/master/Cousera%203-Version%20Control/Week%201-%20Software%20Collaboration)
+- Week 2: [Command Line](https://github.com/philipObiri/Meta-Frontend-Professional-Certification-Program/tree/master/Cousera%203-Version%20Control/Week%202-%20Command%20Line)
+- Week 3: [Working with Git](https://github.com/philipObiri/Meta-Frontend-Professional-Certification-Program/tree/master/Cousera%203-Version%20Control/Week%203-%20Working%20WIth%20Git)
+- Week 4: [Graded Assessment](https://github.com/philipObiri/Meta-Frontend-Professional-Certification-Program/tree/master/Cousera%203-Version%20Control/Week%204-Graded%20Assessment)
 </details>
 
 <details>
