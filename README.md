@@ -35,7 +35,7 @@
 </details>
 
 <details>
-<summary><b>Course 4: </b><a href="https://github.com/ginny100/Meta-Front-End-Developer/tree/master/Course%204%20-%20HTML%20and%20CSS%20in%20depth"><b>HTML and CSS in depth</b></a></summary>
+<summary><b>Course 4: </b><a href="https://github.com/philipObiri/Meta-Frontend-Professional-Certification-Program/tree/master/Course%204-%20Indepth%20HTML%20and%20CSS"><b>HTML and CSS in depth</b></a></summary>
 
 - Week 1: [HTML in depth](https://github.com/ginny100/Meta-Front-End-Developer/tree/master/Course%204%20-%20HTML%20and%20CSS%20in%20depth/Week%201%20-%20HTML%20in%20depth)
 - Week 2: [Interactive CSS](https://github.com/ginny100/Meta-Front-End-Developer/tree/master/Course%204%20-%20HTML%20and%20CSS%20in%20depth/Week%202%20-%20Interactive%20CSS)
