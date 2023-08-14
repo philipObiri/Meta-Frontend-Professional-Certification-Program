@@ -16,7 +16,7 @@
 </details>
 
 <details>
-<summary><b>Course 2: </b><a href="https://github.com/ginny100/Meta-Front-End-Developer/tree/master/Course%202%20-%20Programming%20with%20JavaScript"><b>Programming with JavaScript</b></a></summary>
+<summary><b>Course 2: </b><a href="https://github.com/philipObiri/Meta-Frontend-Professional-Certification-Program/tree/master/Course%202-Programming%20With%20JavaScript"><b>Programming with JavaScript</b></a></summary>
 
 - Week 1: [Introduction to Javascript](https://github.com/philipObiri/Meta-Frontend-Professional-Certification-Program/tree/master/Course%202-Programming%20With%20JavaScript/Week%201)
 - Week 2: [The Building Blocks of a Program](https://github.com/philipObiri/Meta-Frontend-Professional-Certification-Program/tree/master/Course%202-Programming%20With%20JavaScript/Week%202)
