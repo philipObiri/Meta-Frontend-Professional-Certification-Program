@@ -7,7 +7,7 @@
 ## Table of Content
 
 <details>
-<summary><b>Course 1: </b><a href="https://github.com/ginny100/Meta-Front-End-Developer/tree/master/Course%201%20-%20Introduction%20to%20Front-End%20Development"><b>Introduction to Front-End Development</b></a></summary>
+<summary><b>Course 1: </b><a href="https://github.com/philipObiri/Meta-Frontend-Professional-Certification-Program/tree/master/Course%201-Introduction%20to%20FrontEnd%20Development"><b>Introduction to Front-End Development</b></a></summary>
 
 - Week 1: [Get started with web development](https://github.com/philipObiri/Meta-Frontend-Professional-Certification-Program/tree/master/Course%201-Introduction%20to%20FrontEnd%20Development/Week%201)
 - Week 2: [Introduction to HTML and CSS](https://github.com/philipObiri/Meta-Frontend-Professional-Certification-Program/tree/master/Course%201-Introduction%20to%20FrontEnd%20Development/Week%202)
